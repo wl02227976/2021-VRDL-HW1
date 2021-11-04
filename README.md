@@ -6,8 +6,9 @@ This repository is the official implementation of [2021 VRDL HW1](https://compet
 
 ## Reproducing Submission
 1. [Requirements](#Requirements)
-2. [Pretrained_Model](#Pretrained_Model)
-3. [Inference](#Inference)
+2. [Pretrained_Model](#Pretrained_Model)(After downloading, put it into 'model_to_inference' folder.)
+3. [Dataset](#Dataset)(Download the testing_images,unzip it and put it into 'dataset' folder)
+4. [Inference](#Inference)
 
 ## Retrain
 1. [Requirements](#Requirements)
@@ -52,10 +53,10 @@ To train the model(s) in the paper, run this command:
 ```train
 python train.py
 ```
+After training, choose a highest model from result folder and put it into model_to_inference folder.
 
 
 ## Inference
-Choose a highest model from result folder and put it into model_to_inference folder
 
 To inference model, run:
 
@@ -70,7 +71,7 @@ You can download pretrained model here:
 
 - [best_0.7400000035762787_60.pkl](https://drive.google.com/file/d/1nUxSO_0VJfWdwXmgqa54iXVetuxREJ8B/view?usp=sharing)
 
-After downloading, put it into model_to_inference folder
+After downloading, put it into 'model_to_inference' folder.
 
 ## Results
 
