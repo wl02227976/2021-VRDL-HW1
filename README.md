@@ -51,6 +51,6 @@ Our model achieves the following performance on :
 
 
 ## Reference
-https://daniel820710.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%BE%9E%E9%9B%B6%E5%88%B0%E4%B8%80-day3-pytorch-%E4%BB%8B%E7%B4%B9%E8%88%87%E7%AF%84%E4%BE%8B-cosmetics-classification-6e826fbce59b
+https://pse.is/3np5cg
 
 https://github.com/wangzhebufangqi/MachineLearning
