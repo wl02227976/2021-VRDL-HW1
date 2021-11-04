@@ -26,6 +26,19 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
+the version
+```setup
+numpy==1.19.2
+Pillow==7.2.0
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+opencv-python==4.4.0
+matplotlib==3.4.3
+
+```
+
+
+
 ## Config
 Set the parameters
 ```parameter
