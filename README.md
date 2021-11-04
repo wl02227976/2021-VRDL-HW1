@@ -25,7 +25,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-##Config
+## Config
 Set the parameters
 ```parameter
 number of classes
