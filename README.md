@@ -7,7 +7,7 @@ This repository is the official implementation of [My Paper Title](https://arxiv
 
 ## Reproducing Submission
 1. [Requirements](#Requirements)
-2. [Pre-trained Model](#Pre-trained Model)
+2. [Pretrained Model](#Pretrained Model)
 3. [Inference](#Inference)
 
 ## Requirements
@@ -44,7 +44,7 @@ python inference.py
 ```
 
 
-## Pre-trained Model
+## Pretrained Model
 
 You can download pretrained model here:
 
