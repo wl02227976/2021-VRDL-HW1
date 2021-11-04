@@ -42,7 +42,8 @@ python train.py
 
 ## Inference
 Choose a highest model from result folder and put it into model_to_inference folder
-To evaluate my model on ImageNet, run:
+
+To inference model, run:
 
 ```eval
 python inference.py
