@@ -14,7 +14,7 @@ This repository is the official implementation of [2021 VRDL HW1](https://compet
 2. [Dataset](#Dataset)
 3. [Config](#Config)
 4. [Training](#Training)
-5. [Config](#Config) (the model to inference)
+5. [Config](#Config) (the model to inference='your model name')
 6. [Inference](#Inference)
 
 ## Requirements
