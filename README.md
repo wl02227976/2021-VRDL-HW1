@@ -44,7 +44,7 @@ python inference.py
 ```
 
 
-## Pretrained Model
+## Pretrained_Model
 
 You can download pretrained model here:
 
