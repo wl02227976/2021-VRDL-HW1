@@ -6,8 +6,8 @@ This repository is the official implementation of [My Paper Title](https://arxiv
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
 ## Reproducing Submission
-1.[Requirements](#Requirements)
-2.[Inference](#Inference)
+1. [Requirements](#Requirements)
+2. [Inference](#Inference)
 
 ## Requirements
 
