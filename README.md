@@ -5,6 +5,10 @@ This repository is the official implementation of [My Paper Title](https://arxiv
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
+## Reproducing Submission
+1.[Requirements](#Requirements)
+2.[Inference](#Inference)
+
 ## Requirements
 
 To install requirements:
@@ -13,6 +17,13 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
+## Dataset 
+Download the dataset from [data](https://drive.google.com/drive/folders/1G1cZ8BE4oJf469zLKordpghwx9Mmg4k8?usp=sharing)
+After downloading, put them into dataset folder.
+
+```data
+python Data_preprocessing.py
+```
 
 ## Training
 
