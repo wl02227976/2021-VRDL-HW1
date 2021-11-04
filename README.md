@@ -7,7 +7,8 @@ This repository is the official implementation of [My Paper Title](https://arxiv
 
 ## Reproducing Submission
 1. [Requirements](#Requirements)
-2. [Inference](#Inference)
+2. [Pre-trained Model](#Pre-trained Model)
+3. [Inference](#Inference)
 
 ## Requirements
 
@@ -43,12 +44,13 @@ python inference.py
 ```
 
 
-## Pre-trained Models
+## Pre-trained Model
 
-You can download pretrained models here:
+You can download pretrained model here:
 
 - [best_0.7400000035762787_60.pkl](https://drive.google.com/file/d/1nUxSO_0VJfWdwXmgqa54iXVetuxREJ8B/view?usp=sharing)
 
+After downloading, put it into model_to_inference folder
 
 ## Results
 
