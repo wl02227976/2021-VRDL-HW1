@@ -12,8 +12,10 @@ This repository is the official implementation of [2021 VRDL HW1](https://compet
 ## Retrain
 1. [Requirements](#Requirements)
 2. [Dataset](#Dataset)
-3. [Training](#Training)
-4. [Inference](#Inference)
+3. [Config](#Config)
+4. [Training](#Training)
+5. [Config](#Config)
+6. [Inference](#Inference)
 
 ## Requirements
 
@@ -22,6 +24,18 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+
+##Config
+Set the parameters
+```parameter
+number of classes
+batch_size
+number of epochs
+the path to save model
+dataset folder
+the model to inference
+```
+
 
 ## Dataset 
 Download the dataset from [data](https://drive.google.com/drive/folders/1G1cZ8BE4oJf469zLKordpghwx9Mmg4k8?usp=sharing)
