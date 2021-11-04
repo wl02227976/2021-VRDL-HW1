@@ -9,6 +9,12 @@ This repository is the official implementation of [2021 VRDL HW1](https://compet
 2. [Pretrained_Model](#Pretrained_Model)
 3. [Inference](#Inference)
 
+## Retrain
+1. [Requirements](#Requirements)
+2. [Dataset](#Dataset)
+3. [Training](#Training)
+4. [Inference](#Inference)
+
 ## Requirements
 
 To install requirements:
@@ -35,7 +41,7 @@ python train.py
 
 
 ## Inference
-
+Choose a highest model from result folder and put it into model_to_inference folder
 To evaluate my model on ImageNet, run:
 
 ```eval
