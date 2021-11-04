@@ -15,9 +15,12 @@ PRETRAINED_MODEL = ''
 
 MODEL_SAVED_DIR = 'result/'
 
-#数据集的存放位置
+#dataset folder
 TRAIN_DATASET_DIR = 'dataset/train_data'
 VALID_DATASET_DIR = 'dataset/val_data'
+
+#the model to inference
+inference_model='best_0.7400000035762787_60.pkl'
 
 
 
