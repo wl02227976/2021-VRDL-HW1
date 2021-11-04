@@ -16,6 +16,7 @@ import torchvision.datasets as datasets
 import torchvision.models as models
 import torchvision.transforms as transforms
 
+
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
@@ -23,11 +24,12 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 # In[ ]:
 
+model_name=config.inference_model
 
 model = models.resnet152(pretrained=False)
 num_ft = model.fc.in_features
 model.fc = nn.Linear(num_ft, 200)
-model_weight_filename="model_to_inference/best_0.7400000035762787_60.pkl"
+model_weight_filename="model_to_inference/"+model_name
 model.load_state_dict(torch.load(model_weight_filename))
 model = model.to(device)
 model.eval()
