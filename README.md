@@ -44,13 +44,11 @@ You can download pretrained models here:
 Our model achieves the following performance on :
 
 
-| Model name                   | local  | codalab |
-| ------------------           |---------------- | -------------- |
-| best_0.7400000035762787_60   |     0.74         |      	0.678866    |
-
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
+| Model name                   | local_acc        | codalab_acc    |
+| ------------------           |----------------  | -------------- |
+| best_0.7400000035762787_60   |     0.74         |   0.678866     |
 
 
-## Contributing
 
->📋  Pick a licence and describe how to contribute to your code repository. 
+## Reference
+(https://drive.google.com/file/d/1nUxSO_0VJfWdwXmgqa54iXVetuxREJ8B/view?usp=sharing)
