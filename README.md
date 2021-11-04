@@ -7,9 +7,8 @@ This repository is the official implementation of [My Paper Title](https://arxiv
 
 ## Reproducing Submission
 1. [Requirements](#Requirements)
-2. 
-3. [Pretrained Model](#Pretrained Model)
-4. [Inference](#Inference)
+2. [Pretrained_Model](#Pretrained_Model)
+3. [Inference](#Inference)
 
 ## Requirements
 
