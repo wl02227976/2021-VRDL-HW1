@@ -51,4 +51,4 @@ Our model achieves the following performance on :
 
 
 ## Reference
-(https://drive.google.com/file/d/1nUxSO_0VJfWdwXmgqa54iXVetuxREJ8B/view?usp=sharing)
+https://drive.google.com/file/d/1nUxSO_0VJfWdwXmgqa54iXVetuxREJ8B/view?usp=sharing
